@@ -1,0 +1,2 @@
+# GM_Stock_Price_Prediction_and_trend_macd_atr
+GM_Stock_Price_Prediction_and_trend_macd_atr
